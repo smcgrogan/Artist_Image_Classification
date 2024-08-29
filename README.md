@@ -9,6 +9,6 @@ dimensionality of our dataset, which reduces overfitting, increases generalizabi
 model efficiency. We capture our results in two classification models, Support Vector Machines
 (SVM), and Linear Regression (LR).
 
-Link: [Paper PDF](https://drive.google.com/file/d/16n40Dpi3lTUnVABC7uPEsIrvDPFJqLh0/view?usp=sharing) 
+[Paper PDF](https://drive.google.com/file/d/16n40Dpi3lTUnVABC7uPEsIrvDPFJqLh0/view?usp=sharing) 
 
 Work completed at @UC Berkeley School of Information
