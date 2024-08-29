@@ -10,3 +10,5 @@ model efficiency. We capture our results in two classification models, Support V
 (SVM), and Linear Regression (LR).
 
 Link: [Paper PDF](https://drive.google.com/file/d/16n40Dpi3lTUnVABC7uPEsIrvDPFJqLh0/view?usp=sharing) 
+
+Work completed at @UC Berkeley School of Information
